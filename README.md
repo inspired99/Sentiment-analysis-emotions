@@ -1,6 +1,6 @@
 # Sentiment analysis 
 
-Course project for the Deep Learning Course 2022 at HSE & ITMO. [GitHub project](https://github.com/VadimShabashov/transformers-for-text-analysis)
+Course project for the Deep Learning Course 2022 at HSE & ITMO. For full work check [GitHub project](https://github.com/VadimShabashov/transformers-for-text-analysis).
 
 Open huggingface 🤗 [emotions dataset](https://huggingface.co/datasets/emotion) was used.
 
